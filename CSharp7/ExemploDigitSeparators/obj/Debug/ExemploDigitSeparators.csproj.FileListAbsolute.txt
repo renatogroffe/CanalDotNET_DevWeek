@@ -1,0 +1,5 @@
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploDigitSeparators\bin\Debug\ExemploDigitSeparators.exe.config
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploDigitSeparators\bin\Debug\ExemploDigitSeparators.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploDigitSeparators\bin\Debug\ExemploDigitSeparators.pdb
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploDigitSeparators\obj\Debug\ExemploDigitSeparators.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploDigitSeparators\obj\Debug\ExemploDigitSeparators.pdb

@@ -1,0 +1,6 @@
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploLocalFunctions\bin\Debug\ExemploLocalFunctions.exe.config
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploLocalFunctions\bin\Debug\ExemploLocalFunctions.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploLocalFunctions\bin\Debug\ExemploLocalFunctions.pdb
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploLocalFunctions\obj\Debug\ExemploLocalFunctions.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploLocalFunctions\obj\Debug\ExemploLocalFunctions.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploLocalFunctions\obj\Debug\ExemploLocalFunctions.pdb

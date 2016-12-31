@@ -1,0 +1,6 @@
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploBinaryLiterals\bin\Debug\ExemploBinaryLiterals.exe.config
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploBinaryLiterals\bin\Debug\ExemploBinaryLiterals.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploBinaryLiterals\bin\Debug\ExemploBinaryLiterals.pdb
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploBinaryLiterals\obj\Debug\ExemploBinaryLiterals.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploBinaryLiterals\obj\Debug\ExemploBinaryLiterals.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploBinaryLiterals\obj\Debug\ExemploBinaryLiterals.pdb

@@ -1,0 +1,6 @@
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploPatternMatching\bin\Debug\ExemploPatternMatching.exe.config
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploPatternMatching\bin\Debug\ExemploPatternMatching.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploPatternMatching\bin\Debug\ExemploPatternMatching.pdb
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploPatternMatching\obj\Debug\ExemploPatternMatching.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploPatternMatching\obj\Debug\ExemploPatternMatching.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploPatternMatching\obj\Debug\ExemploPatternMatching.pdb

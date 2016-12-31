@@ -1,0 +1,6 @@
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploRefReturns\bin\Debug\ExemploRefReturns.exe.config
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploRefReturns\bin\Debug\ExemploRefReturns.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploRefReturns\bin\Debug\ExemploRefReturns.pdb
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploRefReturns\obj\Debug\ExemploRefReturns.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploRefReturns\obj\Debug\ExemploRefReturns.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploRefReturns\obj\Debug\ExemploRefReturns.pdb

@@ -1,0 +1,7 @@
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploTuplas02\bin\Debug\ExemploTuplas02.exe.config
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploTuplas02\bin\Debug\ExemploTuplas02.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploTuplas02\bin\Debug\ExemploTuplas02.pdb
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploTuplas02\bin\Debug\System.ValueTuple.dll
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploTuplas02\obj\Debug\ExemploTuplas02.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploTuplas02\obj\Debug\ExemploTuplas02.exe
+C:\Desenvolvimento\ExemplosCSharp7_CONADS\ExemploTuplas02\obj\Debug\ExemploTuplas02.pdb
